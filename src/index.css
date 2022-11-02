@@ -43,7 +43,7 @@ header{
   border-radius: 40px;
   position: relative;
   bottom: 200px;
-  left: 80%;
+  left: 90%;
   display: none;
 }
 
@@ -111,6 +111,11 @@ a{
   #menu{
     display: block;
   }
+  
+  #content{
+    width: 95%;
+  }
+
 
   #social{
     width: 50%;
